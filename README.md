@@ -1,1 +1,1 @@
-# NYC-student-cost
+# NYC-Student-Cost
